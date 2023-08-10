@@ -1,37 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Manolo blog</title>
+    <link>https://desmo13.github.io/my-hugo-site/</link>
+    <description>Recent content on Manolo blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 09 Aug 2023 23:09:18 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>es-es</language>
+    <lastBuildDate>Thu, 10 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://desmo13.github.io/my-hugo-site/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Segundo2</title>
-      <link>http://example.org/posts/segundo2/</link>
-      <pubDate>Wed, 09 Aug 2023 23:09:18 +0000</pubDate>
+      <title>Maestros de la Estrategia: Navegando los Teatros de la Segunda Guerra Mundia</title>
+      <link>https://desmo13.github.io/my-hugo-site/posts/my-first-post/</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/segundo2/</guid>
-      <description>asdasdasd</description>
-    </item>
-    
-    <item>
-      <title>Segundo</title>
-      <link>http://example.org/posts/segundo/</link>
-      <pubDate>Wed, 09 Aug 2023 23:09:14 +0000</pubDate>
-      
-      <guid>http://example.org/posts/segundo/</guid>
-      <description>Me gusta españa vamos</description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>http://example.org/posts/my-first-post/</link>
-      <pubDate>Wed, 09 Aug 2023 22:54:59 +0000</pubDate>
-      
-      <guid>http://example.org/posts/my-first-post/</guid>
-      <description>hola</description>
+      <guid>https://desmo13.github.io/my-hugo-site/posts/my-first-post/</guid>
+      <description>Bienvenidos a mi rincón virtual de estrategia y juegos de gran envergadura. Aquí, en este humilde blog, deseo llevarlos a un viaje fascinante a través de los intrincados laberintos de la estrategia y los teatros de la Segunda Guerra Mundial. Soy un apasionado jugador, un amante de los mapas estratégicos y un estudiante perpetuo de los grandes maestros que forjaron el destino en el tablero de guerra global.
+La Segunda Guerra Mundial, un conflicto titánico que abarcó múltiples continentes y escenarios, es un terreno fértil para explorar las profundidades de la estrategia.</description>
     </item>
     
   </channel>

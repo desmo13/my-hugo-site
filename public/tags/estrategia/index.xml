@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Manolo blog</title>
-    <link>https://desmo13.github.io/my-hugo-site/posts/</link>
-    <description>Recent content in Posts on Manolo blog</description>
+    <title>Estrategia on Manolo blog</title>
+    <link>https://desmo13.github.io/my-hugo-site/tags/estrategia/</link>
+    <description>Recent content in Estrategia on Manolo blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Thu, 10 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://desmo13.github.io/my-hugo-site/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://desmo13.github.io/my-hugo-site/tags/estrategia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Maestros de la Estrategia: Navegando los Teatros de la Segunda Guerra Mundia</title>
       <link>https://desmo13.github.io/my-hugo-site/posts/my-first-post/</link>

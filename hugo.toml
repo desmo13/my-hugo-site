@@ -1,4 +1,32 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'ananke'
+baseURL = 'https://desmo13.github.io/my-hugo-site/'
+languageCode = 'es-es'
+title = 'Manolo blog'
+theme = "spaced-blog"
+
+[menu]
+  [[menu.main]]
+    identifier = "Inicio"
+    name = "Inicio"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "Categorias"
+    name = "Categorias"
+    url = "/Tags"
+    weight = 2
+
+[params.colors]
+  black = "#fafafa"
+  white = "#222222"
+  grey = "#dcdde1"
+  red = "#e84118"
+  blue = "#00a8ff"
+  green = "#4cd137"
+  yellow = "#fbc531"
+  purple = "#9c88ff"
+[params]
+  useCover = true
+  darkMode = true
+
+  [[params.author]]
+  name="Desmo13"

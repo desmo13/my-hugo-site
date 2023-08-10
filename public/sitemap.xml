@@ -2,23 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/</loc>
-    <lastmod>2023-08-09T23:09:18+00:00</lastmod>
+    <loc>https://desmo13.github.io/my-hugo-site/tags/estrategia/</loc>
+    <lastmod>2023-08-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
-    <lastmod>2023-08-09T23:09:18+00:00</lastmod>
+    <loc>https://desmo13.github.io/my-hugo-site/posts/my-first-post/</loc>
+    <lastmod>2023-08-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/segundo2/</loc>
-    <lastmod>2023-08-09T23:09:18+00:00</lastmod>
+    <loc>https://desmo13.github.io/my-hugo-site/</loc>
+    <lastmod>2023-08-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/segundo/</loc>
-    <lastmod>2023-08-09T23:09:14+00:00</lastmod>
+    <loc>https://desmo13.github.io/my-hugo-site/posts/</loc>
+    <lastmod>2023-08-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/my-first-post/</loc>
-    <lastmod>2023-08-09T22:54:59+00:00</lastmod>
+    <loc>https://desmo13.github.io/my-hugo-site/tags/primera-entrada/</loc>
+    <lastmod>2023-08-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://desmo13.github.io/my-hugo-site/tags/segunda-guerra-mundial/</loc>
+    <lastmod>2023-08-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://desmo13.github.io/my-hugo-site/tags/</loc>
+    <lastmod>2023-08-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://desmo13.github.io/my-hugo-site/categories/</loc>
   </url>
 </urlset>
