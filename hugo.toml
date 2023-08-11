@@ -2,7 +2,7 @@ baseURL = 'https://desmo13.github.io/my-hugo-site/'
 languageCode = 'es-es'
 title = 'Manolo blog'
 theme = "spaced-blog"
-disqusShortname = 'your-disqus-shortname'
+disqusShortname = 'manolo-blog'
 
 [menu]
   [[menu.main]]
