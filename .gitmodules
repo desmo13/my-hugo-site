@@ -3,4 +3,4 @@
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
 [submodule "themes/spaced-blog"]
 	path = themes/spaced-blog
-	url = https://github.com/Morgscode/hugo-theme-spaced-blog.git
+	url = https://github.com/desmo13/hugo-theme-spaced-blog.git
